@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&background=8A8A8A43&center=true&width=435&lines=I+want+to+go+home)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C00&background=8A8A8A43&center=true&width=435&lines=I+want+to+go+home)]()
